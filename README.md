@@ -30,7 +30,7 @@ Lumos提供丰富的Demos供使用者参考
 欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true&theme=radical&hide=contribs,prs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=BTboay&show_icons=true&theme=buefy&hide=contribs,prs" />
 </div>
 
 <br />
