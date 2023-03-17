@@ -35,7 +35,7 @@ Lumos提供丰富的Demos供使用者参考
 
 <p align="center">
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=BTboay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BTboay's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTboay&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LumosNet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BTboay's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosNet&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
