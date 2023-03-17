@@ -1,17 +1,27 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
-    😆 Hey! Welcome to my profile
-    <br />
-    <br />🍉 Take a look at my stats  🌱
-    <br />
-    <br />
-  </samp>
+<div align="center">
+  <img src="https://github.com/LumosNet/Lumos/tree/master/img/Lumos.png">
+</div>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=BTboay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BTboay's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTboay&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+### 简介
 
-</p>
+[BTboay](https://github.com/BTboay)是[Lumos](https://github.com/LumosNet)深度神经网络框架作者，致力于打造适合底层算法研究的深度学习框架。期望更多人不仅仅止步于使用上层框架构建成熟应用，更能对底层算法原理和实现技巧有更多关注
 
-<br />
+### 开发状况
+
+当前Lumos提供基础的全连接神经网络和卷积神经网络基本组件，提供mnist手写数字检测示例，您可以参考该示例来使用Lumos
+当前Lumos已支持CUDA加速，您可以选择CPU或GPU版本进行使用
+
+<div align="center">
+  <img src="https://github.com/LumosNet/Lumos/tree/master/img/LumosNet.png">
+</div>
+
+### 源码库
+
+[Lumos](https://github.com/LumosNet/Lumos)Lumos CPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
+[Lumos-Gpu](https://github.com/LumosNet/Lumos-Gpu)Lumos GPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
+[Lumos-Python](https://github.com/LumosNet/Lumos-Python)Lumos Python版本源码库，我们暂时未完成相关源码，暂无法使用
+[Lumos-Demos](https://github.com/LumosNet/Lumos-Demos)Lumos提供丰富的Demos供使用者参考
+
+###联系我们：
+    邮箱：yuzhuoandlb@foxmail.com
+    欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
