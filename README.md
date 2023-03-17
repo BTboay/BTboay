@@ -17,13 +17,10 @@
 
 **[Lumos](https://github.com/LumosNet/Lumos)**
 Lumos CPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
-
 **[Lumos-Gpu](https://github.com/LumosNet/Lumos-Gpu)**
 Lumos GPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
-
 **[Lumos-Python](https://github.com/LumosNet/Lumos-Python)**
 Lumos Python版本源码库，我们暂时未完成相关源码，暂无法使用
-
 **[Lumos-Demos](https://github.com/LumosNet/Lumos-Demos)**
 Lumos提供丰富的Demos供使用者参考
 
