@@ -22,6 +22,6 @@
 [Lumos-Python](https://github.com/LumosNet/Lumos-Python)Lumos Python版本源码库，我们暂时未完成相关源码，暂无法使用
 [Lumos-Demos](https://github.com/LumosNet/Lumos-Demos)Lumos提供丰富的Demos供使用者参考
 
-###联系我们：
+### 联系我们
     邮箱：yuzhuoandlb@foxmail.com
     欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
