@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LumosNet/Lumos/tree/master/img/Lumos.png">
+  <img src="https://raw.githubusercontent.com/LumosNet/Lumos/master/img/Lumos.png">
 </div>
 
 ### 简介
@@ -12,7 +12,7 @@
 当前Lumos已支持CUDA加速，您可以选择CPU或GPU版本进行使用
 
 <div align="center">
-  <img src="https://github.com/LumosNet/Lumos/tree/master/img/LumosNet.png">
+  <img src="https://raw.githubusercontent.com/LumosNet/Lumos/master/img/LumosNet.png">
 </div>
 
 ### 源码库
