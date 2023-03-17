@@ -23,5 +23,5 @@
 [Lumos-Demos](https://github.com/LumosNet/Lumos-Demos)Lumos提供丰富的Demos供使用者参考
 
 ### 联系我们
-    邮箱：yuzhuoandlb@foxmail.com
-    欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
+邮箱：yuzhuoandlb@foxmail.com
+欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
