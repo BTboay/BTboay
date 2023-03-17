@@ -13,10 +13,11 @@
 
 ### 源码库
 
-<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />
-
+[<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://badge.fury.io/py/tensorflow)
 **[Lumos](https://github.com/LumosNet/Lumos)**
 Lumos CPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
+
+
 **[Lumos-Gpu](https://github.com/LumosNet/Lumos-Gpu)**
 Lumos GPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
 **[Lumos-Python](https://github.com/LumosNet/Lumos-Python)**
