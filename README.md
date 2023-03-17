@@ -11,10 +11,6 @@
 当前Lumos提供基础的全连接神经网络和卷积神经网络基本组件，提供mnist手写数字检测示例，您可以参考该示例来使用Lumos
 当前Lumos已支持CUDA加速，您可以选择CPU或GPU版本进行使用
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BTboay/BTboay/master/img/LumosNet.png">
-</div>
-
 ### 源码库
 
 **[Lumos](https://github.com/LumosNet/Lumos)**
@@ -33,11 +29,8 @@ Lumos提供丰富的Demos供使用者参考
 邮箱：yuzhuoandlb@foxmail.com
 欢迎提供开发思路，BUG反馈，以及任何关于Lumos的问题
 
-<p align="center">
-
-| <a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BTboay" alt="BTboay's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTboay&layout=compact&theme=buefy" /> </a> |
-| ------------- | ------------- |
-
-</p>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true&theme=radical&hide=contribs,prs" />
+</div>
 
 <br />
