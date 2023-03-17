@@ -13,12 +13,12 @@
 
 ### 源码库
 
-版本                    | 链接
------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Lumos CPU**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos)
-**Lumos GPU**                 | [<img src="https://img.shields.io/badge/Lumos-GPU-brightgreen" />](https://github.com/LumosNet/Lumos-Gpu)
-**Lumos Python**                 | [<img src="https://img.shields.io/badge/Lumos-Python-brightgreen" />](https://github.com/LumosNet/Lumos-Python)
-**Lumos Demos**                 | [<img src="https://img.shields.io/badge/Lumos-Demos-brightgreen" />](https://github.com/LumosNet/Lumos-Demos)
+版本                    | 链接                                                                                                                                                                           | 描述
+----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
+**Lumos CPU**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos)           | Lumos CPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
+**Lumos GPU**                 | [<img src="https://img.shields.io/badge/Lumos-GPU-brightgreen" />](https://github.com/LumosNet/Lumos-Gpu)           | Lumos GPU版本源码库，您可以直接clone源码进行使用，或使用我们提供的安装文件进行安装使用
+**Lumos Python**                 | [<img src="https://img.shields.io/badge/Lumos-Python-brightgreen" />](https://github.com/LumosNet/Lumos-Python)           | Lumos Python版本源码库，我们暂时未完成相关源码，暂无法使用
+**Lumos Demos**                 | [<img src="https://img.shields.io/badge/Lumos-Demos-brightgreen" />](https://github.com/LumosNet/Lumos-Demos)           | Lumos提供丰富的Demos供使用者参
 
 ### 联系我们
 邮箱：yuzhuoandlb@foxmail.com
